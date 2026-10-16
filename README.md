@@ -59,3 +59,4 @@ The results are specific to this small test dataset and do not guarantee that a 
 - Linear Regression
 - Polynomial Feature Engineering
 - Regression Evaluation Metrics
+### ّMore info on Metrics refer to my post on Linkedin https://lnkd.in/p/ddQjvgHx
